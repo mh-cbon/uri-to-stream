@@ -5,7 +5,7 @@ Transforms an uri string to a stream
 # install
 
 ```
-npm i @mh-cbon/uri-to-stream
+npm i @mh-cbon/uri-to-stream --save
 ```
 
 # usage

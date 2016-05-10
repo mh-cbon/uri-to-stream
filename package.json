@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/uri-to-stream",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transforms an uri string to a stream",
   "main": "index.js",
   "scripts": {
